@@ -22,7 +22,7 @@ setup(
     install_requires=[
         "setuptools >= 40.0.0",
         "opentelemetry-sdk == 1.12.0",
-        "opentelemetry-api == 1.12.0",
+        "opentelemetry-api == 1.45.1",
         "opentelemetry-exporter-otlp == 1.12.0",
     ],
     namespace_packages=["snowflake"],
